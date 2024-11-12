@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/2121baa5-7032-4138-b965-8d264f505b85/resourceGroups/Default-ActivityLogAlerts/providers/Microsoft.ApiManagement/service/apimmmc111224/products/unlimited",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/2121baa5-7032-4138-b965-8d264f505b85/resourceGroups/Default-ActivityLogAlerts/providers/Microsoft.ApiManagement/service/apimmmc111224/users/1",
+    "state": "active"
+  }
+}
